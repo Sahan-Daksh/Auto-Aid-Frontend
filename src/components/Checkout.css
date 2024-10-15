@@ -1,0 +1,11 @@
+.payment-checkout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .service-card {
+    margin: 16px;
+    width: 400px;
+  }

@@ -1,0 +1,12 @@
+.mechanic-support {
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding: 16px;
+  }
+  
+  .mechanic-support .MuiTextField-root {
+    margin-bottom: 16px;
+  }

@@ -1,0 +1,25 @@
+.nearby-service {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element {
+    height: 1219px;
+    left: 48px;
+    object-fit: cover;
+    position: absolute;
+    top: -610px;
+    width: 418px;
+  }
+  
+  .element-dafa {
+    height: 1219px;
+    left: -466px;
+    object-fit: cover;
+    position: absolute;
+    top: -610px;
+    width: 443px;
+  }

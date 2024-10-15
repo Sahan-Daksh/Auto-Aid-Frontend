@@ -1,0 +1,32 @@
+.home-screen {
+    align-items: flex-start;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .service-card {
+    margin: 16px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 4px #0000001a;
+  }
+  
+  .service-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .welcome-text {
+    color: #111416;
+    font-family: 'Manrope-Bold', Helvetica;
+    font-size: 28px;
+    font-weight: 700;
+  }
+  
+  .featured-services-title, .other-services-title {
+    color: #111416;
+    font-family: 'Manrope-Bold', Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+  }
