@@ -7,7 +7,7 @@ import { SupportChoices } from './components/SupportChoices'
 import MechanicOTW from './components/MechanicOTW'
 import Profile from './components/UserProfile'
 // import { Appointment } from './components/Appointment'
-import { PaymentCheckout } from './components/Checkout'
+import PaymentCheckout from './components/Checkout'
 
 function App() {
   return (
