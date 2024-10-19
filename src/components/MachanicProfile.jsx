@@ -116,7 +116,7 @@ const AvailabilityAndStatus = () => (
 
 const EditProfileButton = () => (
   <div className="p-4">
-    <button className="w-full bg-gray-100 text-gray-700 py-2 rounded-lg">
+    <button className="w-full bg-blue-500 text-white py-2 rounded-lg">
       Edit Profile
     </button>
   </div>

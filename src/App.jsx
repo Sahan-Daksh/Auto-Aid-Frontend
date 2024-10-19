@@ -13,6 +13,7 @@ import ActiveJob from './components/ActiveJob'
 import JobCompletion from './components/JobCompletion'
 import PaymentConfirmation from './components/PaymentConfirmation'
 import MachanicProfile from './components/MachanicProfile'
+import ProfileScreen from './components/UserProfile2'
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
       <ServiceDetail/>
       <SupportChoices/>
       <MechanicOTW/>
-      <Profile/>
+      <ProfileScreen/>
+      {/* <Profile/> */}
       {/* <Appointment/> */}
       <PaymentCheckout/>
       <IncomingJob/>
