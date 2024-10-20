@@ -14,6 +14,8 @@ import JobCompletion from './components/JobCompletion'
 import PaymentConfirmation from './components/PaymentConfirmation'
 import MachanicProfile from './components/MachanicProfile'
 import ProfileScreen from './components/UserProfile2'
+import NavBar from './components/NavBar'
+import BookingAppointment from './components/BookingAppointment'
 
 function App() {
   return (
@@ -32,6 +34,8 @@ function App() {
       <JobCompletion/>
       <PaymentConfirmation/>
       <MachanicProfile/>
+      {/* <NavBar/> */}
+      <BookingAppointment/>
     </>
   )
 }
